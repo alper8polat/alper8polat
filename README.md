@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alper Polat</h1>
-<h3 align="center">Biomedical engineer interested in AI,data analysis and ESD from Türkiye.</h3>
+<h3 align="center">Biomedical engineer interested in AI, data analysis and ESD from Türkiye.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.predictionhealth.com/hubfs/image.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alper8polat&label=Profile%20views&color=0e75b6&style=flat" alt="alper8polat" /> </p>
 
@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **alper8polat@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
